@@ -1,3 +1,4 @@
 <!--pages/home/home.wxml-->
 <text class="title">pages/home/home.wxml</text>
 <view>哈哈哈</view>
+<view>tag测试</view>
